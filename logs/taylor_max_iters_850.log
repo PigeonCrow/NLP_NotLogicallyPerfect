@@ -1,0 +1,126 @@
+# Start Time 19:15
+# Stop Time 
+# Baseline configuration
+out_dir = 'out-taylor-corpus'
+eval_interval = 250
+eval_iters = 200
+log_interval = 10
+always_save_checkpoint = False
+wandb_log = False
+wandb_project = 'nanoGPT-assignment'
+wandb_run_name = 'taylor-max-iters-850'
+dataset = 'taylor_swift_char'
+gradient_accumulation_steps = 1
+batch_size = 64
+block_size = 256
+n_layer = 6
+n_head = 6
+n_embd = 384
+dropout = 0.2
+learning_rate = 1e-3
+max_iters = 850 # changed in run
+lr_decay_iters = 5000
+min_lr = 1e-4
+beta2 = 0.99
+warmup_iters = 100
+weight_decay = 1e-1
+device = 'mps' # change to 'cuda' if you have a GPU # changed from CPU
+compile = False 
+# set True only on Linux with GPU
+tokens per iteration will be: 16,384
+found vocab_size = 80 (inside data/taylor_swift_char/meta.pkl)
+Initializing a new model from scratch
+number of parameters: 10.65M
+num decayed parameter tensors: 26, with 10,745,856 parameters
+num non-decayed parameter tensors: 13, with 4,992 parameters
+using fused AdamW: False
+step 0: train loss 4.4955, val loss 4.4926
+iter 0: loss 4.4787, time 39437.02ms, mfu -100.00%
+iter 10: loss 3.1307, time 294.03ms, mfu 1.27%
+iter 20: loss 2.7071, time 294.60ms, mfu 1.27%
+iter 30: loss 2.5330, time 299.42ms, mfu 1.27%
+iter 40: loss 2.4541, time 299.70ms, mfu 1.26%
+iter 50: loss 2.4538, time 299.24ms, mfu 1.26%
+iter 60: loss 2.3963, time 297.46ms, mfu 1.26%
+iter 70: loss 2.4158, time 303.16ms, mfu 1.26%
+iter 80: loss 2.3796, time 301.24ms, mfu 1.26%
+iter 90: loss 2.3826, time 306.39ms, mfu 1.25%
+iter 100: loss 2.3739, time 303.78ms, mfu 1.25%
+iter 110: loss 2.3553, time 306.45ms, mfu 1.25%
+iter 120: loss 2.3170, time 308.54ms, mfu 1.24%
+iter 130: loss 2.3105, time 310.81ms, mfu 1.24%
+iter 140: loss 2.3021, time 311.20ms, mfu 1.23%
+iter 150: loss 2.2191, time 296.10ms, mfu 1.24%
+iter 160: loss 2.2221, time 305.53ms, mfu 1.23%
+iter 170: loss 2.1459, time 304.14ms, mfu 1.23%
+iter 180: loss 2.0583, time 301.37ms, mfu 1.23%
+iter 190: loss 2.0074, time 303.14ms, mfu 1.23%
+iter 200: loss 1.9835, time 305.23ms, mfu 1.23%
+iter 210: loss 1.9029, time 300.40ms, mfu 1.23%
+iter 220: loss 1.9260, time 298.46ms, mfu 1.23%
+iter 230: loss 1.8538, time 306.03ms, mfu 1.23%
+iter 240: loss 1.8514, time 305.85ms, mfu 1.23%
+step 250: train loss 1.7235, val loss 1.8993
+iter 250: loss 1.7989, time 42106.79ms, mfu 1.11%
+iter 260: loss 1.7186, time 298.50ms, mfu 1.12%
+iter 270: loss 1.7203, time 299.55ms, mfu 1.14%
+iter 280: loss 1.7218, time 298.69ms, mfu 1.15%
+iter 290: loss 1.6923, time 299.57ms, mfu 1.16%
+iter 300: loss 1.6799, time 302.43ms, mfu 1.16%
+iter 310: loss 1.6669, time 299.17ms, mfu 1.17%
+iter 320: loss 1.5899, time 294.44ms, mfu 1.18%
+iter 330: loss 1.5959, time 293.48ms, mfu 1.19%
+iter 340: loss 1.6283, time 294.57ms, mfu 1.20%
+iter 350: loss 1.5937, time 300.24ms, mfu 1.20%
+iter 360: loss 1.5765, time 300.77ms, mfu 1.21%
+iter 370: loss 1.5338, time 293.28ms, mfu 1.21%
+iter 380: loss 1.5433, time 292.44ms, mfu 1.22%
+iter 390: loss 1.5536, time 292.32ms, mfu 1.22%
+iter 400: loss 1.5078, time 295.14ms, mfu 1.23%
+iter 410: loss 1.4807, time 293.16ms, mfu 1.23%
+iter 420: loss 1.4272, time 295.15ms, mfu 1.24%
+iter 430: loss 1.4867, time 297.71ms, mfu 1.24%
+iter 440: loss 1.4213, time 291.71ms, mfu 1.24%
+iter 450: loss 1.4279, time 291.52ms, mfu 1.25%
+iter 460: loss 1.3876, time 290.24ms, mfu 1.25%
+iter 470: loss 1.4358, time 291.16ms, mfu 1.25%
+iter 480: loss 1.3688, time 288.31ms, mfu 1.26%
+iter 490: loss 1.3506, time 287.98ms, mfu 1.26%
+step 500: train loss 1.2850, val loss 1.6432
+iter 500: loss 1.4345, time 40875.20ms, mfu 1.14%
+iter 510: loss 1.3340, time 290.14ms, mfu 1.15%
+iter 520: loss 1.3473, time 290.64ms, mfu 1.16%
+iter 530: loss 1.2989, time 289.90ms, mfu 1.18%
+iter 540: loss 1.3262, time 291.12ms, mfu 1.19%
+iter 550: loss 1.3471, time 300.64ms, mfu 1.19%
+iter 560: loss 1.3229, time 300.36ms, mfu 1.20%
+iter 570: loss 1.2905, time 299.70ms, mfu 1.20%
+iter 580: loss 1.2870, time 298.40ms, mfu 1.21%
+iter 590: loss 1.3326, time 293.07ms, mfu 1.21%
+iter 600: loss 1.2370, time 291.23ms, mfu 1.22%
+iter 610: loss 1.2510, time 293.36ms, mfu 1.22%
+iter 620: loss 1.2422, time 294.64ms, mfu 1.23%
+iter 630: loss 1.2486, time 298.42ms, mfu 1.23%
+iter 640: loss 1.2064, time 294.24ms, mfu 1.23%
+iter 650: loss 1.2194, time 291.87ms, mfu 1.24%
+iter 660: loss 1.2157, time 302.23ms, mfu 1.24%
+iter 670: loss 1.2285, time 299.04ms, mfu 1.24%
+iter 680: loss 1.2113, time 295.95ms, mfu 1.24%
+iter 690: loss 1.2799, time 298.29ms, mfu 1.24%
+iter 700: loss 1.1966, time 293.09ms, mfu 1.24%
+iter 710: loss 1.1370, time 289.71ms, mfu 1.25%
+iter 720: loss 1.2296, time 289.37ms, mfu 1.25%
+iter 730: loss 1.1900, time 289.55ms, mfu 1.26%
+iter 740: loss 1.1105, time 291.68ms, mfu 1.26%
+step 750: train loss 1.0100, val loss 1.6112
+iter 750: loss 1.1379, time 41207.34ms, mfu 1.13%
+iter 760: loss 1.1024, time 287.41ms, mfu 1.15%
+iter 770: loss 1.1385, time 286.88ms, mfu 1.16%
+iter 780: loss 1.1220, time 287.14ms, mfu 1.18%
+iter 790: loss 1.1250, time 290.78ms, mfu 1.19%
+iter 800: loss 1.0847, time 290.27ms, mfu 1.20%
+iter 810: loss 1.1022, time 297.30ms, mfu 1.20%
+iter 820: loss 1.1097, time 289.66ms, mfu 1.21%
+iter 830: loss 1.0931, time 289.41ms, mfu 1.22%
+iter 840: loss 1.0591, time 289.49ms, mfu 1.23%
+iter 850: loss 1.1114, time 289.86ms, mfu 1.23%
