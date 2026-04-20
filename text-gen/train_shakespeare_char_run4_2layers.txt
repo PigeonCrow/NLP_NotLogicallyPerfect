@@ -1,0 +1,76 @@
+Overriding: out_dir = out-shakespeare-2layers
+Overriding: device = mps
+Overriding: num_samples = 3
+Overriding: max_new_tokens = 500
+number of parameters: 3.57M
+Loading meta from data/shakespeare_char/meta.pkl...
+
+
+MENENIUS:
+I fear thee with us,
+With your countrymen? I am all the good words
+Have bore three to scarce of him.
+
+MENENIUS:
+You bear the cause of the lewd to it.
+
+CORIOLANUS:
+Will you buy this?
+
+MENENIUS:
+The prisoners of Rome,--
+
+SICINIUS:
+Lay 'tis not past this: he hath held
+'tis minded leaden, and let them not the people when they
+are all they smalled and fetch'd your knees brave away.
+
+BRUTUS:
+When peace we shall their city?
+
+SICINIUS:
+The worst will depose him.
+
+BRUTUS:
+Katharina time: I say
+---------------
+
+
+MARIANA:
+You may not be done.
+
+ISABELLA:
+I do not send thy lord.
+
+CLAUDIO:
+Peace! pray, Hortensio, thy mother,
+And then deal my son,
+As we should have ta'en thy cause against there:
+'Tis not bear thee to be my life, it goes to
+thyself a petty of meeting birth. This same on the field, who scarce me should be,
+Or I serve my course, my lord, I proud my gracious lord,
+To see thee it, and tears of my death.
+
+RICHMOND:
+The brother, we'll make such a strength some garland,
+And her clouds me with a bre
+---------------
+
+God marry,
+And not a little heir son
+I will perform the villain of sacred souls.
+This thy eyes thou hast been born to thy cause
+And all thy father with wretched body to thy head.
+
+KING HENRY VI:
+Where is a head stopp'd in his comfort most saw and his mother head!
+
+QUEEN ELIZABETH:
+Why, here, my lord, what father?
+
+KING RICHARD II:
+God in the day of Gloucester's gracious father,
+Then were report for the gilty should fain it:
+With the lamb of love base him sleep'd to die,
+His love, thereof many co
+---------------
