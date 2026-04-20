@@ -1,0 +1,94 @@
+Overriding: out_dir = out-shakespeare-run2
+Overriding: device = mps
+Overriding: num_samples = 3
+Overriding: max_new_tokens = 500
+number of parameters: 10.65M
+Loading meta from data/shakespeare_char/meta.pkl...
+
+Forgive you to change her as house with all,
+And I hear be a promised common had here,
+O, thou art as as a simpley way:
+Hark you! set sir!
+
+AUTOLYCUS:
+I cannot be, well, for the face but straw'd.
+
+Clown:
+The prisons are should be and not sleep 't of son.
+
+First Citizen:
+I am contempt to the duke is of the king
+keep cries of her that what have yought on my joy,
+then your kneel brace that stands made to pound.
+
+Second Murderer:
+There is the man, this well: it is say.
+
+Second Citizen:
+Here comes yo
+---------------
+
+I guarl to death! him it did more nor here.
+
+DUKE OF YORK:
+He comes his children, I think you love:
+He is my body, with the lord, and protector more father.
+
+DERBY:
+Emen, lest your heart shall be as death.
+
+HENRY BOLINGBROKE:
+I say 't supper me, as it not in my veil,
+That would follow us in a perprison of thy eagle!
+
+HENRY BOLINGBROKE:
+O happy day!
+
+HENRY BRINGBROKE:
+Stand him, for thy watch;
+And I am play in thy bound on my tongue.
+
+NORTHUMBERLAND:
+What once how succession as hast me,
+Thy for h
+---------------
+
+Good night:
+To thy arm thou hereaft the made day?
+
+CATESBY:
+The villain, we deserve we my eye,
+Were he not to hope her holy hands confess us.
+
+GLOUCESTER:
+What art are not howful den?
+
+GLOUCESTER:
+
+KING EDWARD IWARD IV:
+
+GLOUCESTER:
+
+GLOUCESTER:
+
+HART:
+
+BRAY ORK:
+
+INGHAM:
+
+Mary is the lord, run court
+Upon thou with the king purchase to his brother.
+
+QUEEN ELIZABETH:
+You fly, prince, must repent for the good again.
+
+YORK:
+An art warwick with an away.
+
+GLOUCESTER:
+'Tis name--
+
+GLOUCESTER:
+We milk'
+---------------

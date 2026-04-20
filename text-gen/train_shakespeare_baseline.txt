@@ -1,0 +1,64 @@
+Overriding: out_dir = out-shakespeare-baseline
+Overriding: device = mps
+Overriding: num_samples = 3
+Overriding: max_new_tokens = 500
+number of parameters: 10.65M
+Loading meta from data/shakespeare_char/meta.pkl...
+
+
+Nurse:
+Master, here's expect his exile.
+
+LUCIO:
+I hear, my lord.
+
+MARIANA:
+O nurse?
+
+LUCIO:
+That's his officious that art thou hast fearful
+To the dish cause: have you thought of such a strange,
+Contract you his voice for your souls,
+That I have need a man to make of the officer,
+And could do up in law rush of heart
+To do make the many a high of my old death,
+And from you quickly and all washing;
+That profits your eyes and this reason are sulpering
+That ever we have your grave, and yet I have f
+---------------
+
+
+AUTOLYCUS:
+Which is the day?
+
+Clown:
+See how you then which we humble way!
+
+Shepherd:
+As I have not, the man made with some offence,
+pronounce money, his virtue secures
+the vice that's pregnant, and doth being as post
+against of him: he is not some tender women of himself
+of life their mind; and their own like gracess
+on the office of their person, and first them thou wilt be debated
+to the town. Canst thou there is a most cuprison? Now
+shall distufb with the steward in him? These men carrant h
+---------------
+
+God, and have been a little here,
+I then will follow the treason of a thing:
+Nor no doubt, but therefore, let me show
+From all trucking vengeance with sweet life,
+That it lookfully makes it on your highness,
+To stop your power: marry, sir, go and her me
+Being to know you her reasons, and not your highness
+Of mine hath servants of mine own.
+
+LUCIO:
+Come, go and to the state, and not with your grace:
+Your dissembling fair is expeal'd by me; and in babes,
+Looking to confess you.
+
+DUKE VINCENTIO:
+O 
+---------------

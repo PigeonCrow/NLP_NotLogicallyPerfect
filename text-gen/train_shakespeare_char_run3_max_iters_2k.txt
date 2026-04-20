@@ -1,0 +1,70 @@
+Overriding: out_dir = out-shakespeare-max-iters-2k
+Overriding: device = mps
+Overriding: num_samples = 3
+Overriding: max_new_tokens = 500
+number of parameters: 10.65M
+Loading meta from data/shakespeare_char/meta.pkl...
+
+
+Nurse:
+Madam, what says your friar?
+
+Nurse:
+How I hear me, with my teeth: then needs,
+Or reason scorns of simple that I have deserved,
+Having known lihtNessing, and like of your healths,
+Blown'd upon our caps that way most jewels.
+
+Nurse:
+Lady, to plague when?
+
+CAPULET:
+Come, to your cousin's until on truth;
+And your majesty shall have a high on my old.
+
+Nurse:
+Your hands are deceived to the house, your death,
+Do me have I thine executed man.
+
+Nurse:
+Why, if you have as the airing are his serva
+---------------
+
+
+MARIANA:
+But it does not thine orators: it is not
+But why yet he shall be too larged in Hermione.
+
+DUKE VINCENTIO:
+He that arms a sand honest hath affects a kneese
+Even to see a ravening heart and with me
+Come as past again to the moon.
+Here's a more no be, my lord, but I am life.
+What mighty disturbs of this?
+
+ISABELLA:
+Pression me, good so lords, and from them,
+Let's go him in Mantua; though for a spear
+Play'd to a bloody to the hundred widows
+To have out of the sin: not act as his souls
+Unto
+---------------
+
+
+ISABELLA:
+My lord, and I would thou tell me the commons to
+do again the way; yet I would think I remember my heart
+and my affect confess sea.
+
+DUKE VINCENTIO:
+I will not look to do the fire of England's good;
+Is not thine of these gapes are too that man
+Must take a sall of her interchange errance in
+The form will at my brother? Yet, it is but a bed
+Time that hath a true for prince, and true repeals
+Are in safety. 'Say the earth of lamentation
+Shall she be modest content:--
+
+LUCIO:
+Tut, tell me 
+---------------
